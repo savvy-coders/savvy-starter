@@ -5,6 +5,8 @@
   "recommendations": [
     "2gua.rainbow-brackets",
     "aaron-bond.better-comments",
+    "alefragnani.bookmarks",
+    "christian-kohler.npm-intellisense",
     "codezombiech.gitignore",
     "coenraads.bracket-pair-colorizer-2",
     "dbaeumer.vscode-eslint",
