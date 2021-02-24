@@ -10,15 +10,16 @@
   "devDependencies": {
     "eslint": "^6.8.0",
     "eslint-config-prettier": "^6.15.0",
-    "eslint-plugin-prettier": "^3.2.0",
+    "eslint-plugin-prettier": "^3.3.1",
     "prettier": "1.19.1",
-    "stylelint": "^13.8.0",
+    "stylelint": "^13.11.0",
     "stylelint-config-prettier": "^6.0.0",
     "stylelint-config-recommended": "^3.0.0",
     "stylelint-prettier": "^1.1.2",
     "stylelint-vscode": "^7.0.0-6"
   },
   "dependencies": {
-    "node": "^15.3.0"
+    "node": "^15.8.0",
+    "yargs-parser": ">=13.1.2"    
   }
 }
