@@ -7,6 +7,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "@parcel/transformer-js": {
+    "inlineEnvironment": false
+  },
   "devDependencies": {
     "eslint": "^8.4.1",
     "eslint-config-prettier": "^6.15.0",
@@ -14,7 +17,6 @@
     "prettier": "1.19.1"
   },
   "dependencies": {
-    "node": "^16.13.1",
     "yargs-parser": ">=13.1.2"
   }
 }

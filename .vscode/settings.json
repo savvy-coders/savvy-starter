@@ -21,7 +21,7 @@
   "files.insertFinalNewline": true,
   "files.trimTrailingWhitespace": true,
   "stylelint.enable": true,
-  "terminal.integrated.fontFamily": "'Inconsolata', monospace",
+  "terminal.integrated.fontFamily": "'Fira Code','Jetbrains Mono','Inconsolata', monospace",
   "workbench.colorTheme": "Material Theme",
   "workbench.enableExperiments": false,
   "workbench.iconTheme": "material-icon-theme",
