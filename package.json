@@ -5,11 +5,8 @@
   "main": "index.js",
   "scripts": {},
   "keywords": [],
-  "author": "",
+  "author": "",https://github.com/savvy-coders/savvy-starter/blob/master/package.json
   "license": "ISC",
-  "@parcel/transformer-js": {
-    "inlineEnvironment": false
-  },
   "devDependencies": {
     "eslint": "^8.4.1",
     "eslint-config-prettier": "^6.15.0",
