@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {},
   "keywords": [],
-  "author": "",https://github.com/savvy-coders/savvy-starter/blob/master/package.json
+  "author": "",
   "license": "ISC",
   "devDependencies": {
     "eslint": "^8.4.1",
