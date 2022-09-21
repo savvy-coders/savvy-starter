@@ -5,7 +5,6 @@
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true
   },
-  "editor.fontFamily": "'Inconsolata', Menlo, Monaco, 'Courier New', monospace",
   "editor.fontLigatures": true,
   "editor.minimap.enabled": false,
   "editor.scrollBeyondLastColumn": 2,
@@ -16,7 +15,6 @@
   "files.insertFinalNewline": true,
   "files.trimTrailingWhitespace": true,
   "stylelint.enable": true,
-  "terminal.integrated.fontFamily": "'Fira Code','Jetbrains Mono','Inconsolata', monospace",
   "workbench.colorTheme": "Material Theme",
   "workbench.enableExperiments": false,
   "workbench.iconTheme": "material-icon-theme",
